@@ -1,2 +1,3 @@
 Initial content
-Change in clone2
+Change from clone1
+Change from clone2
